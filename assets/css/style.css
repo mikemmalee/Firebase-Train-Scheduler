@@ -1,0 +1,34 @@
+body {
+    background: url("../images/subway-239601.jpg");
+    background-color: #180f0d;
+    background-attachment: fixed;
+    background-position: center; 
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    width: 70%;
+}
+
+.header{
+    text-align: center;
+    text-shadow: 2px 2px 4px black;
+    background-color: #00695c;
+    color: white;
+    padding-bottom: 15px;
+}
+
+.panel {
+    opacity: 0.92;
+    border: none;
+}
+
+.input-group {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #00695c !important; 
+    color: white !important;
+}
